@@ -45,7 +45,9 @@ group :development, :test do
 
   #Bootstrap
   gem 'bootstrap-sass', '~> 3.3.4'
-
+   
+  # Rspec testing
+  gem 'rspec-rails', '~> 3.0'
 
 end
 
